@@ -1,0 +1,56 @@
+name: inzaar
+description: "A premium Islamic reading experience for Inzaar publications."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  flutter_bloc: ^8.1.5
+  equatable: ^2.0.5
+  sqflite: ^2.4.2
+  sqflite_common_ffi: ^2.4.0+2
+  path: ^1.9.1
+  shared_preferences: ^2.5.4
+  path_provider: ^2.1.5
+  flutter_animate: ^4.5.0
+  google_fonts: ^8.0.2
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.2.5
+  flutter_markdown: ^0.6.19
+  scrollable_positioned_list: ^0.3.8
+  share_plus: ^10.1.0
+  flutter_svg: ^2.0.10+1
+  connectivity_plus: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_native_splash: ^2.4.0
+
+dependency_overrides:
+  sqlite3: 2.3.0
+  sqflite_common_ffi: 2.3.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/books/
+    - assets/magazines/
+    - assets/articles/
+    - assets/images/books/
+    - assets/images/magazines/
+    - assets/images/articles/
+
+  fonts:
+    - family: Jameel
+      fonts:
+        - asset: assets/fonts/Jameel Noori Nastaleeq Kasheeda.ttf

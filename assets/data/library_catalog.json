@@ -1,0 +1,235 @@
+{
+  "books": [
+    {
+      "id": "when_life_begins",
+      "title": "When Life Begins",
+      "author": "Abu Yahya",
+      "description": "A comprehensive guide to understanding the true purpose of life and the journey of the soul. This book has transformed thousands of lives globally.",
+      "coverPath": "assets/images/books/when_life_begins.svg",
+      "contentPath": "assets/books/when_life_begins.txt",
+      "type": "book",
+      "isArabicRTL": false,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "god_speaks",
+      "title": "God Speaks",
+      "author": "Abu Yahya",
+      "description": "A comprehensive guide to understanding the true purpose of life and the journey of the soul. This book has transformed thousands of lives globally.",
+      "coverPath": "assets/images/books/god_speaks.svg",
+      "contentPath": "assets/books/god_speaks.txt",
+      "type": "book",
+      "isArabicRTL": false,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "aakhri_jang",
+      "title": "Aakhri Jang",
+      "author": "Abu Yahya",
+      "description": "A captivating novel serving as a sequel to 'Jab Zindagi Shuru Hogi'. It delves into the eternal battle between humans and Satan.",
+      "coverPath": "assets/images/books/aakhri_jang.svg",
+      "contentPath": "assets/books/aakhri_jang.txt",
+      "type": "book",
+      "isArabicRTL": true,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "adhuri_kahani",
+      "title": "Adhuri Kahani",
+      "author": "Abu Yahya",
+      "description": "The concluding novel of the series that began with 'When Life Begins'. It provides a map of heavenly life and spiritual growth.",
+      "coverPath": "assets/images/books/adhuri_kahani.svg",
+      "contentPath": "assets/books/adhuri_kahani.txt",
+      "type": "book",
+      "isArabicRTL": true,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "by_that_time",
+      "title": "By That Time",
+      "author": "Abu Yahya",
+      "description": "An English translation of the profound work exploring time and its significance in a human's life from an Islamic perspective.",
+      "coverPath": "assets/images/books/by_that_time.svg",
+      "contentPath": "assets/books/by_that_time.txt",
+      "type": "book",
+      "isArabicRTL": false,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "hadees_e_dil",
+      "title": "Hadees-e-Dil",
+      "author": "Abu Yahya",
+      "description": "A powerful Islamic book focusing on character building and the internal transformation of the heart.",
+      "coverPath": "assets/images/books/hadees_e_dil.svg",
+      "contentPath": "assets/books/hadees_e_dil.txt",
+      "type": "book",
+      "isArabicRTL": true,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "incomplete_story",
+      "title": "Incomplete Story",
+      "author": "Abu Yahya",
+      "description": "The English version of 'Adhuri Kahani', narrating a journey of spirituality and personal growth.",
+      "coverPath": "assets/images/books/incomplete_story.svg",
+      "contentPath": "assets/books/incomplete_story.txt",
+      "type": "book",
+      "isArabicRTL": false,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "khuda_bol_raha_hai",
+      "title": "Khuda Bol Raha Hai",
+      "author": "Abu Yahya",
+      "description": "A unique narrative describing the grandeur of the Holy Quran and its transformative power.",
+      "coverPath": "assets/images/books/khuda_bol_raha_hai.svg",
+      "contentPath": "assets/books/khuda_bol_raha_hai.txt",
+      "type": "book",
+      "isArabicRTL": true,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "last_war",
+      "title": "Last War",
+      "author": "Abu Yahya",
+      "description": "The English translation of 'Aakhri Jang', focusing on the battle between human moral foundations and satanic intrigues.",
+      "coverPath": "assets/images/books/last_war.svg",
+      "contentPath": "assets/books/last_war.txt",
+      "type": "book",
+      "isArabicRTL": false,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "mulaqat",
+      "title": "Mulaqat",
+      "author": "Abu Yahya",
+      "description": "Addresses significant academic and reformatory issues, offering a compelling description of the lives of Prophets.",
+      "coverPath": "assets/images/books/mulaqat.svg",
+      "contentPath": "assets/books/mulaqat.txt",
+      "type": "book",
+      "isArabicRTL": true,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "qasam_us_waqt-ki",
+      "title": "Qasam Us Waqt Ki",
+      "author": "Abu Yahya",
+      "description": "A best-selling novel exploring the accountability of humans and the reality of the hereafter.",
+      "coverPath": "assets/images/books/qasam_us_waqt-ki.svg",
+      "contentPath": "assets/books/qasam_us_waqt-ki.txt",
+      "type": "book",
+      "isArabicRTL": true,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "quran_ka_matloob_insaan",
+      "title": "Quran Ka Matloob Insaan",
+      "author": "Abu Yahya",
+      "description": "Explores the personality traits God desires in individuals based on the Quran.",
+      "coverPath": "assets/images/books/quran_ka_matloob_insaan.svg",
+      "contentPath": "assets/books/quran_ka_matloob_insaan.txt",
+      "type": "book",
+      "isArabicRTL": true,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "rehmaton_kay_saye_mein",
+      "title": "Rehmaton Kay Saye Mein",
+      "author": "Abu Yahya",
+      "description": "A guide on the blessings of Ramadan and how to spend this holy month to achieve maximum spiritual benefits.",
+      "coverPath": "assets/images/books/rehmaton_kay_saye_mein.svg",
+      "contentPath": "assets/books/rehmaton_kay_saye_mein.txt",
+      "type": "book",
+      "isArabicRTL": true,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "teesri_roshni",
+      "title": "Teesri Roshni",
+      "author": "Abu Yahya",
+      "description": "Abu Yahya's autobiography detailing his struggle for truth and analysis of sectarian attitudes.",
+      "coverPath": "assets/images/books/teesri_roshni.svg",
+      "contentPath": "assets/books/teesri_roshni.txt",
+      "type": "book",
+      "isArabicRTL": true,
+      "price": "Rs. 1500"
+    },
+    {
+      "id": "wohi_rahguzar",
+      "title": "Wohi Rahguzar",
+      "author": "Abu Yahya",
+      "description": "A thought-provoking travelogue detailing journeys through Australia and Thailand.",
+      "coverPath": "assets/images/books/wohi_rahguzar.svg",
+      "contentPath": "assets/books/wohi_rahguzar.txt",
+      "type": "book",
+      "isArabicRTL": true,
+      "price": "Rs. 1500"
+    }
+  ],
+  "magazines": [
+    {
+      "id": "inzaar-magazine-abu-yahya-mar-26",
+      "title": "Inzaar Magazine - March 2026",
+      "author": "Inzaar Editorial Board",
+      "description": "The latest monthly edition covering contemporary issues, Q&A, and scholarly articles.",
+      "coverPath": "assets/images/magazines/inzaar-magazine-abu-yahya-mar-26.svg",
+      "contentPath": "assets/magazines/inzaar-magazine-abu-yahya-mar-26.txt",
+      "type": "magazine",
+      "isArabicRTL": false,
+      "price": "Rs. 250"
+    },
+    {
+      "id": "inzaar-magazine-abu-yahya-feb-26",
+      "title": "Inzaar Magazine - February 2026",
+      "author": "Inzaar Editorial Board",
+      "description": "The latest monthly edition covering contemporary issues, Q&A, and scholarly articles.",
+      "coverPath": "assets/images/magazines/inzaar-magazine-abu-yahya-feb-26.svg",
+      "contentPath": "assets/magazines/inzaar-magazine-abu-yahya-feb-26.txt",
+      "type": "magazine",
+      "isArabicRTL": false,
+      "price": "Rs. 250"
+    }
+  ],
+  "articles": [
+    {
+      "id": "the-defeated-pawn",
+      "title": "The Defeated Pawn",
+      "author": "Abu Yahya",
+      "description": "Translated by Ali Zafar",
+      "coverPath": "assets/images/articles/the-defeated-pawn.svg",
+      "contentPath": "assets/articles/the-defeated-pawn.txt",
+      "type": "article",
+      "isArabicRTL": false
+    },
+    {
+      "id": "the-enemies-of-the-prophet-inzaar-fiteoh",
+      "title": "The Enemies of the Prophet",
+      "author": "Abu Yahya",
+      "description": "Translated by Taqi Ahmed",
+      "coverPath": "assets/images/articles/the-enemies-of-the-prophet-inzaar-fiteoh.svg",
+      "contentPath": "assets/articles/the_enemies_of_the_prophet.txt",
+      "type": "article",
+      "isArabicRTL": false
+    },
+    {
+      "id": "talaq-aur-khandani-jhagron-ka-hal",
+      "title": "Talaq aur Khandani Jhagron ka Hal",
+      "author": "Abu Yahya",
+      "description": "A deep dive into family matters and Islamic solutions for harmony in married life.",
+      "coverPath": "assets/images/articles/talaq-aur-khandani-jhagron-ka-hal-fitakj.svg",
+      "contentPath": "assets/articles/talaq-aur-khandani-jhagron-ka-hal.txt",
+      "type": "article",
+      "isArabicRTL": true
+    },
+    {
+      "id": "islam-aur-khawateen-par-tashadud",
+      "title": "Islam aur Khawateen Par Tashadud",
+      "author": "Abu Yahya",
+      "description": "An enlightening perspective on the status of women in Islam and a call against domestic violence.",
+      "coverPath": "assets/images/articles/ghareelo-tashadud-aur-islaam-by-abu-yahya-figtas.svg",
+      "contentPath": "assets/articles/islam-aur-khawateen-par-tashadud.txt",
+      "type": "article",
+      "isArabicRTL": true
+    }
+  ]
+}
